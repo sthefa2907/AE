@@ -9,7 +9,7 @@ export default function SignInForm() {
             <input type="password" placeholder="Contraseña" />
             <section>
                 <span>
-                    <a href="/olvidarcontrasena">
+                    <a href="/olvidarcontraseña">
                         Olvidaste tu contraseña?
                     </a>
                     <a href="/registro">
