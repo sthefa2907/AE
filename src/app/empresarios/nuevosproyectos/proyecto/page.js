@@ -32,13 +32,13 @@ export default function Proyecto() {
                         Eje Estratejico
                     </h1>
                     <p>
-                        El eje estratégico del proyecto "Semillas El eje estratégico del proyecto "Semillas de mi Tierra" se centra en la sostenibilidad integral, abarcando
+                        El eje estratégico del proyecto Semillas El eje estratégico del proyecto "Semillas de mi Tierra se centra en la sostenibilidad integral, abarcando
                         aspectos económicos, sociales y medioambientales.
 
-                        A través de la implementaciónEl eje estratégico del proyecto "Semillas El eje estratégico del proyecto "Semillas de mi Tierra" se centra en la sostenibilidad integral, abarcando
+                        A través de la implementacion El eje estratégico del proyecto Semillas El eje estratégico del proyecto Semillas de mi Tierra se centra en la sostenibilidad integral, abarcando
                         aspectos económicos, sociales y medioambientales.
 
-                        A través de la implementación de prácticas agrícolas
+                        A través de la implementacion de prácticas agrícolas
                         regenerativas, la promoción de la diversificación de cultivos y la formación de redes de apoyo comunitario, se
                         busca alcanzar un equilibrio entre la producción de alimentos saludables, la protección de los recursos
                         naturales y el fortalecimiento de la comunidad campesinade mi Tierra" se centra en la sostenibilidad integral, abarcando
